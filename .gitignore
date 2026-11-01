@@ -1,0 +1,17 @@
+# data (MINSAP custodianship)
+data/raw/
+data/derived/
+
+# model objects and logs
+output/models/
+output/logs/
+
+# R session files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp*
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Analysis code: area-level factors associated with COVID-19 incidence, mortality and case fatality across epidemic waves in Havana, Cuba"
+type: software
+authors:
+  - family-names: Sanchez-Valdes
+    given-names: Lizet
+    orcid: "https://orcid.org/0000-0001-7747-1052"
+    affiliation: "Clinical Research Division, Center of Molecular Immunology, Havana, Cuba"
+  - family-names: Sauleau
+    given-names: Erik-André
+    orcid: "https://orcid.org/0000-0003-1178-1060"
+    affiliation: "Laboratory of Biostatistics and Medical Informatics, University of Strasbourg, France"
+  - family-names: Remond Noa
+    given-names: Ricardo
+    orcid: "https://orcid.org/0000-0002-6969-3453"
+    affiliation: "Faculty of Geography, University of Havana, Cuba"
+  - family-names: Palomino Hernandez
+    given-names: Jorge Luis
+    orcid: "https://orcid.org/0000-0001-7527-8478"
+    affiliation: "Clinical Research Division, Center of Molecular Immunology, Havana, Cuba"
+  - family-names: Veranes Miranda
+    given-names: Alejandro
+    orcid: "https://orcid.org/0000-0003-0271-5694"
+    affiliation: "Faculty of Geography, University of Havana, Cuba"
+  - family-names: Handschumacher
+    given-names: Pascal
+    orcid: "https://orcid.org/0000-0002-9444-9612"
+    affiliation: "Faculty of Geography and Urban Planning, University of Strasbourg, France"
+  - family-names: Van der Stuyft
+    given-names: Patrick
+    orcid: "https://orcid.org/0009-0005-0895-1200"
+    affiliation: "Department of Public Health and Primary Care, Ghent University, Belgium"
+  - family-names: Mas Bermejo
+    given-names: Pedro
+    orcid: "https://orcid.org/0000-0002-5350-657X"
+    affiliation: "Institute of Tropical Medicine Pedro Kourí, Havana, Cuba"
+version: 1.0.0
+date-released: "2026-10-24"
+license: MIT
+repository-code: "https://github.com/REPLACE-WITH-ACCOUNT/REPLACE-WITH-REPOSITORY"
+keywords:
+  - COVID-19
+  - spatial epidemiology
+  - Bayesian disease mapping
+  - conditional autoregressive model
+  - Cuba
+  - Havana
