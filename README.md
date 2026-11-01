@@ -1,5 +1,7 @@
 # Area-level factors associated with COVID-19 in Havana, Cuba
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23857423.svg)](https://doi.org/10.5281/zenodo.23857423)
+
 Analysis code for the manuscript *Area-level factors associated with COVID-19 incidence,
 mortality and case fatality across epidemic waves in Havana, Cuba: a wave-specific Bayesian
 spatial ecological study*.
@@ -151,8 +153,12 @@ Rscript tools/make_synthetic_data.R   # regenerate the synthetic inputs
 
 ## Citation
 
-If you use this code, please cite the article. `CITATION.cff` also lets GitHub display a
-"Cite this repository" button.
+If you use this code, please cite the article and the archived release. `CITATION.cff` also
+lets GitHub display a "Cite this repository" button.
+
+The archived version is **v1.0.0**, with concept DOI
+[10.5281/zenodo.23857423](https://doi.org/10.5281/zenodo.23857423) (this version:
+[10.5281/zenodo.23857424](https://doi.org/10.5281/zenodo.23857424)).
 
 > Sanchez-Valdes L, Sauleau EA, Remond Noa R, Palomino Hernandez JL, Veranes Miranda A,
 > Handschumacher P, Van der Stuyft P, Mas Bermejo P. Area-level factors associated with

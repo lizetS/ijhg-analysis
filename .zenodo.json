@@ -1,0 +1,18 @@
+{
+  "title": "Analysis code: area-level factors associated with COVID-19 incidence, mortality and case fatality across epidemic waves in Havana, Cuba",
+  "description": "Reproducibility pipeline for 17 wave-specific Bayesian spatial models (7 incidence, 5 mortality, 5 case fatality) with Leroux conditional autoregressive priors. Includes data preparation, model fitting, tables, figures, diagnostics and sensitivity analyses, plus a synthetic test dataset with the same structure as the restricted inputs. The restricted MINSAP surveillance data are not included.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {"name": "Sanchez-Valdes, Lizet", "affiliation": "Center of Molecular Immunology, Havana, Cuba", "orcid": "0000-0001-7747-1052"},
+    {"name": "Sauleau, Erik-André", "affiliation": "University of Strasbourg, France", "orcid": "0000-0003-1178-1060"},
+    {"name": "Remond Noa, Ricardo", "affiliation": "University of Havana, Cuba", "orcid": "0000-0002-6969-3453"},
+    {"name": "Palomino Hernandez, Jorge Luis", "affiliation": "Center of Molecular Immunology, Havana, Cuba", "orcid": "0000-0001-7527-8478"},
+    {"name": "Veranes Miranda, Alejandro", "affiliation": "University of Havana, Cuba", "orcid": "0000-0003-0271-5694"},
+    {"name": "Handschumacher, Pascal", "affiliation": "University of Strasbourg, France", "orcid": "0000-0002-9444-9612"},
+    {"name": "Van der Stuyft, Patrick", "affiliation": "Ghent University, Belgium", "orcid": "0009-0005-0895-1200"},
+    {"name": "Mas Bermejo, Pedro", "affiliation": "Institute of Tropical Medicine Pedro Kourí, Havana, Cuba", "orcid": "0000-0002-5350-657X"}
+  ],
+  "keywords": ["COVID-19", "spatial epidemiology", "Bayesian disease mapping", "conditional autoregressive model", "Cuba", "Havana"]
+}

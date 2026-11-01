@@ -36,9 +36,20 @@ authors:
     orcid: "https://orcid.org/0000-0002-5350-657X"
     affiliation: "Institute of Tropical Medicine Pedro Kourí, Havana, Cuba"
 version: 1.0.0
-date-released: "2026-10-24"
+date-released: "2026-11-01"
 license: MIT
-repository-code: "https://github.com/REPLACE-WITH-ACCOUNT/REPLACE-WITH-REPOSITORY"
+doi: 10.5281/zenodo.23857423
+repository-code: "https://github.com/lizetS/ijhg-analysis"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23857423
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23857424
+    description: "Version v1.0.0"
+  - type: url
+    value: "https://github.com/lizetS/ijhg-analysis"
+    description: "Source repository"
 keywords:
   - COVID-19
   - spatial epidemiology
